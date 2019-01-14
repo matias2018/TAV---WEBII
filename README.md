@@ -12,9 +12,11 @@ De hoje em diante devemos respeitar os 'standarts'. Apenas deste modo, sabemos q
 
 Aqui podes encontrar uma breve lista de verificação que integra os problemas mais comuns e proeminentes do desenvolvimento web:
 
-1-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declare sempre a codificação!
+1-Idioma: declara o idioma dos documentos.
+<html lang="pt">
 
-2-Idioma: declara o idioma dos documentos.
+2-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declara sempre a codificação!
+<meta charset="UTF-8">
 
 3-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
 
