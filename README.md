@@ -8,7 +8,7 @@ IMPORTANTE!
 
 O poder da web é a sua universalidade. 
 Isto significa que idealmente todos os sites devem ser acessíveis por toda a gente. 
-De hoje em diante devemos respeitar os 'standarts'. Apenas assim, sabemos que estamos a construir uma web verdadeiramente aberta.
+De hoje em diante devemos respeitar os 'standarts'. Apenas deste modo, sabemos que estamos a construir uma web verdadeiramente aberta.
 
 Aqui podes encontrar uma breve lista de verificação que integra os problemas mais comuns e proeminentes do desenvolvimento web:
 
