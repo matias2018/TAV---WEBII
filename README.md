@@ -27,7 +27,7 @@ E.G. <br>
   <br><br>
 <b>Usar</b> &lt;div class="cantosRedondos"&gt; + css
 
-4<b>4-</b>-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
+<b>4-</b>-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
 
 <b>5-</b>-Evita'Escape characters': usa caracteres em vez de fugas (por exemplo usa 'á' em vez de &#xE1; &#225; ou &aacute;).
 
