@@ -18,11 +18,11 @@ Aqui podes encontrar uma breve lista de verificação que integra os problemas m
 2-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declara sempre a codificação!
 &lt;meta charset="UTF-8"&gt;
 
-3-Estilo Localizável: utiliza CSS para os aspectos de apresentação da tua página. Assim, é fácil adaptar o conteúdo de acordo com as necessidades tipográficas do público, manter uma separação clara entre o estilo e o conteúdo semântico e não usar a marcação "de apresentação".
-E.G. 
-<b>Evitar</b> <div style="border-radius: 3px;">
-  
-<b>Usar</b> <div class="cantosRedondos">
+3-Estilo Localizável: utiliza CSS para os aspectos de apresentação da tua página. Assim, é fácil adaptar o conteúdo de acordo com as necessidades tipográficas do público, manter uma separação clara entre o estilo e o conteúdo semântico e não usar a marcação "de apresentação". <br>
+E.G. <br>
+<b>Evitar</b> &lt;div style="border-radius: 3px;"&gt;
+  <br>
+<b>Usar</b> &lt;div class="cantosRedondos"&gt;
 
 4-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
 
