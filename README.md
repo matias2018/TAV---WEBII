@@ -13,9 +13,11 @@ De hoje em diante devemos respeitar os 'standarts'. Apenas deste modo, sabemos q
 Aqui podes encontrar uma breve lista de verificação que integra os problemas mais comuns e proeminentes do desenvolvimento web:
 
 1-Idioma: declara o idioma dos documentos.
+<br>
 &lt;html lang="pt"&gt;
 
 2-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declara sempre a codificação!
+<br>
 &lt;meta charset="UTF-8"&gt;
 
 3-Estilo Localizável: utiliza CSS para os aspectos de apresentação da tua página. Assim, é fácil adaptar o conteúdo de acordo com as necessidades tipográficas do público, manter uma separação clara entre o estilo e o conteúdo semântico e não usar a marcação "de apresentação". <br>
