@@ -16,14 +16,18 @@ Aqui podes encontrar uma breve lista de verificação que integra os problemas m
 &lt;html lang="pt"&gt;
 
 2-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declara sempre a codificação!
-<meta charset="UTF-8">
+&lt;meta charset="UTF-8"&gt;
 
-3-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
+3-Estilo Localizável: utiliza CSS para os aspectos de apresentação da tua página. Assim, é fácil adaptar o conteúdo de acordo com as necessidades tipográficas do público, manter uma separação clara entre o estilo e o conteúdo semântico e não usar a marcação "de apresentação".
+E.G. 
+<b>Evitar</b> <div style="border-radius: 3px;">
+  
+<b>Usar</b> <div class="cantosRedondos">
 
-4-Evita'Escape characters': usa caracteres em vez de fugas (por exemplo usa 'á' em vez de &#xE1; &#225; ou &aacute;).
+4-Navegação: Sempre que em cada página, incluires navegação para páginas ou sites localizados, torna essa navegação claramente visível e usa o idioma de destino.
 
-5-Forms: usa UTF-8 no formulário e no servidor. Suporta formatos locais de nomes / endereços, horários / datas, etc.
+5-Evita'Escape characters': usa caracteres em vez de fugas (por exemplo usa 'á' em vez de &#xE1; &#225; ou &aacute;).
 
-6-Estilo Localizável: utiliza CSS para os aspectos de apresentação da tua página. Assim, é fácil adaptar o conteúdo de acordo com as necessidades tipográficas do público, manter uma separação clara entre o estilo e o conteúdo semântico e não usar a marcação "de apresentação".
+6-Forms: usa UTF-8 no formulário e no servidor. Suporta formatos locais de nomes / endereços, horários / datas, etc.
 
 7-imagens, animações e exemplos: se o seu conteúdo for visto por pessoas de diversas culturas, verifica a capacidade de tradução e o viés cultural inadequado.
