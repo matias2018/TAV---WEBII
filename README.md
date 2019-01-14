@@ -13,7 +13,7 @@ De hoje em diante devemos respeitar os 'standarts'. Apenas deste modo, sabemos q
 Aqui podes encontrar uma breve lista de verificação que integra os problemas mais comuns e proeminentes do desenvolvimento web:
 
 1-Idioma: declara o idioma dos documentos.
-<html lang="pt">
+"<html lang="pt">"
 
 2-Codificação: usa a codificação de caracteres UTF-8 (Unicode) para conteúdo, bancos de dados, etc. Declara sempre a codificação!
 <meta charset="UTF-8">
